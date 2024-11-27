@@ -27,7 +27,7 @@
     "@babel/preset-react": "^7.10.1",
     "@mars/heroku-js-runtime-env": "^3.0.2",
     "@react-google-maps/api": "^1.9.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "babel-loader": "^8.1.0",
     "babel-polyfill": "^6.26.0",
     "bcrypt": "^5.0.0",
